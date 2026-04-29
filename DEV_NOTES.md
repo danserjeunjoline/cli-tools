@@ -13,3 +13,8 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-29
 - Added healthcheck endpoint stub
 - Noted known limitation in docs
+
+## 2026-04-29
+- Added basic usage examples to README
+- Addressed feedback from self code review
+- Added CONTRIBUTING.md stub
