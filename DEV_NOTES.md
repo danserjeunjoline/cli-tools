@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Tidied up project structure
 - Reorganised test fixtures
 - Wrote notes on upcoming feature design
+
+## 2026-04-29
+- Added healthcheck endpoint stub
