@@ -21,3 +21,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-06
 - Checked for memory leaks in long-running path
+
+## 2026-05-06
+- Refactored module structure for clarity
+- Documented config options
+- Fixed off-by-one error in loop
