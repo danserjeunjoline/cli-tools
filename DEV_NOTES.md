@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Addressed feedback from self code review
 - Added CONTRIBUTING.md stub
+
+## 2026-05-06
+- Checked for memory leaks in long-running path
